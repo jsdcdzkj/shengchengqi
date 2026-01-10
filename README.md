@@ -1,8 +1,10 @@
 # 生成器
 
-自动同步仓库（桌面自动备份）
+自动同步仓库
+同步时间：2026-01-10 16:51:15
 
-- 中文名：生成器
-- 拼音仓库名：shengchengqi
-- 所属组织：jsdcdzkj
-- 最后同步：2025-12-05 17:08:31
+## 大文件（GitHub Release）
+
+## ⚠️ 已忽略内容
+- 忽略目录：.git .svn .idea node_modules __pycache__ target
+- 忽略文件数：0
